@@ -1,4 +1,12 @@
-	<!-- here we used an inline style attributed to attach our hero image as a css background directly onto the element. 
+
+        <!-- using permalink gives us a link to the post -->
+    <!-- <h1>
+        <a href="<?php the_permalink( ); ?>">
+		Check out <?php the_title(  ); ?>!
+        </a>
+	</h1> -->
+    
+    <!-- here we used an inline style attributed to attach our hero image as a css background directly onto the element. 
 	And the section have a min height of 100vh, cover and centre background etc -->
 	<section class="hero min-vh-100 cover bg-center flex items-center justify-center" style="
 	

@@ -1,7 +1,7 @@
 body {
     font-family: 'Cardo', serif;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 1.5;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -29,4 +29,13 @@ body {
 
 .hero-content {
     max-width: 750px;
+}
+
+.text-block h3 {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
 }
