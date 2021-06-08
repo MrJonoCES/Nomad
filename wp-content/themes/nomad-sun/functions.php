@@ -181,3 +181,24 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
 
+// with our function we give it a name
+// and an input (argument) of $name
+function shout_name($name) {
+	// we want to take our name and convert
+	// it to uppercase and return it
+	echo strtoupper($name);
+}
+
+// write a function that formats the date in a nice way
+
+function nice_date($date) {
+	echo date("F Y", strtotime($date));
+}
+
+// here we have a function that returns
+// us a nicely formatted background image
+function nice_background($image_field) {
+	// we pass in our image field, and it returns us it 
+	// in a formatted fashion 
+	echo 'background-image: url(' . get_field($image_field) . ')';
+}

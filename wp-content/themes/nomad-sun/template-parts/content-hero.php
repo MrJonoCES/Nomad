@@ -10,9 +10,7 @@
 	And the section have a min height of 100vh, cover and centre background etc -->
 	<section class="hero min-vh-100 cover bg-center flex items-center justify-center" style="
 	
-		<?php if(get_field('hero_image') ): ?>
-    		background-image: url(<?php the_field('hero_image'); ?>);
-		<?php endif; ?>
+		<?php nice_background('hero_image'); ?>
 
 	">
 		<!-- make text white and centre it -->
@@ -32,7 +30,8 @@
 			<p class="archivo f6 bold white ttu ma0 tracked">
 			<?php
 			// here we convert date into a format php can work with and then we format it to be readable
-			echo date("F Y", strtotime(get_field('date')));
+			nice_date(get_field('date'));
+
 			?>
 			</p>
 

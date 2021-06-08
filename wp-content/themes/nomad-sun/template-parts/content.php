@@ -25,9 +25,7 @@
 
 					<!-- header bg have 100% width and then 60% width on large screens as 
 					well as 50vh and 100vh height on small and large screens -->
-					<div class="w-100 w-60-l vh-50 vh-100-l cover bg-center" style="<?php if(get_field('hero_image') ): ?>
-    				background-image: url(<?php the_field('hero_image'); ?>);
-					<?php endif; ?>"></div>
+					<div class="w-100 w-60-l vh-50 vh-100-l cover bg-center" style="<?php nice_background('hero_image'); ?>"></div>
 
 					<!-- our header content -->
 					<!-- by default we'll make our header content block have 100% width
@@ -36,7 +34,7 @@
 						
 						<div class="tc"> <!-- here we use absolute positioning for larger screens to put the date in the top centre -->
 						<p class="f6 b archivo mt0 mb5 mb0-l ttu tracked absolute-l top-0-l left-0-l w-100-l pt4">
-						<?php echo date("F Y", strtotime(get_field('date')));?>
+						<?php nice_date(get_field('date')); ?>
 						<span class="line mt4"></span>
 						</p>
 						<!-- standard wordpress data, not an ACF -->
@@ -73,6 +71,11 @@
 			endwhile; endif; ?>
 
 	</div><!-- .entry-content -->
+
+	<!-- here we get an image by its id and tell it we want the full size version -->
+	<div class="gallery-image">
+		<?php echo wp_get_attachment_image(28, 'full'); ?>
+	</div>
 
 	<footer class="entry-footer">
 		<?php //nomad_sun_entry_footer(); ?>

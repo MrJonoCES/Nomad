@@ -51,3 +51,9 @@ body {
         background-color: #1C1C1C;
     }
 }
+
+.gallery-image img {
+    width: auto !important;
+    height: auto !important;
+    display: block;
+  }
