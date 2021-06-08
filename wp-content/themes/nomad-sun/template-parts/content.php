@@ -20,15 +20,19 @@
 			// if it’s a header, go through the data
 			if( get_row_layout() == 'header' ): ?>
 
-				<!-- our header -->
-				<div class="flex">
+				<!-- our header-->
+				<div class="flex-l">
 
-					<!-- our centred, full height, 60% width BG image -->
-					<div class="w-60 min-vh-100 cover bg-center" style="<?php if(get_field('hero_image') ): ?>
+					<!-- header bg have 100% width and then 60% width on large screens as 
+					well as 50vh and 100vh height on small and large screens -->
+					<div class="w-100 w-60-l vh-50 vh-100-l cover bg-center" style="<?php if(get_field('hero_image') ): ?>
     				background-image: url(<?php the_field('hero_image'); ?>);
 					<?php endif; ?>"></div>
+
 					<!-- our content -->
-					<div class="w-40 flex items-center justify-center ph4">
+					<!-- by default we'll make our header content block have 100% width
+					and then we change it to 40% at large screen sizes -->
+					<div class="w-100 w-40-l flex items-center justify-center ph4">
 						
 						<div class="tc"><!-- a single div for the flex to work on -->
 						<p class="f6 b archivo mt0 mb5 ttu tracked">
