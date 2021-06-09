@@ -60,14 +60,21 @@ body {
 .gallery-image img {
     width: auto !important;
     height: auto !important;
+    display: block;
   }
 
+  /* note this is just because the .gallery-image above isn't working */
 .attachment-full {
     width: auto !important;
     height: auto !important;    
+    display: block;
 }
 
 .caption {
     max-width: 870px;
 
+}
+
+.container {
+    max-width: 1300px;
 }
