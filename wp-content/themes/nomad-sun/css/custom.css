@@ -78,3 +78,8 @@ body {
 .container {
     max-width: 1300px;
 }
+
+.explore-title {
+    margin-bottom: 48px;
+    max-width: 320px;
+}

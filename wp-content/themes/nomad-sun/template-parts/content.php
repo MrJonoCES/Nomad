@@ -38,6 +38,9 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<?php //nomad_sun_entry_footer(); ?>
+		<!-- here we have our social link component -->
+		<?php get_template_part( 'template-parts/content-share' ); ?>
+		<!-- here we include our explore component -->
+		<?php get_template_part( 'template-parts/content-explore' ); ?>
 	</footer><!-- .entry-footer -->
 </article><!-- #post-<?php the_ID(); ?> -->
