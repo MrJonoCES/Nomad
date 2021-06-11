@@ -1,5 +1,5 @@
 <!-- this tag wraps around our gallery and contains it -->
-<div class="container flex flex-wrap center ph4-l">
+<div class="gallery container flex flex-wrap center ph4-l">
     <?php $images = get_sub_field('gallery'); ?>
     <?php foreach($images as $image) : ?>
         

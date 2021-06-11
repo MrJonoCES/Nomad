@@ -140,17 +140,18 @@ add_action( 'widgets_init', 'nomad_sun_widgets_init' );
  * Enqueue scripts and styles.
  */
 function nomad_sun_scripts() {
+	// here we bring tachyons into our theme and load it
 	wp_enqueue_style( 'nomad-sun-style', get_stylesheet_uri(), array(), _S_VERSION );
 	
+	// we load our custom css file
 	wp_enqueue_style( 'nomadsun-custom', get_template_directory_uri() . '/css/custom.css');
 	
-	wp_style_add_data( 'nomad-sun-style', 'rtl', 'replace' );
+	// here we load barba.js from our js folder
+	wp_enqueue_script('nomadsun-barba', get_template_directory_uri() . '/js/barba.js');
 
-	wp_enqueue_script( 'nomad-sun-navigation', get_template_directory_uri() . '/js/navigation.js', array(), _S_VERSION, true );
+	// here we load our script file using jquery alongside it
+	wp_enqueue_script('nomadsun-main', get_template_directory_uri() . '/js/main.js', array('jquery'), '1.0.0', true );
 
-	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
-		wp_enqueue_script( 'comment-reply' );
-	}
 }
 add_action( 'wp_enqueue_scripts', 'nomad_sun_scripts' );
 
