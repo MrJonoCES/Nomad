@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:ital@0;1&family=Cardo&family=Tenor+Sans&display=swap" rel="stylesheet">  
+	<link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+	<title>Nomad Sun &#8211; A travel blog featuring the most beautiful places in the world</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Nomad Sun &raquo; Feed" href="http://localhost:8888/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Nomad Sun &raquo; Comments Feed" href="http://localhost:8888/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost:8888/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' media='all' />
+<link rel='stylesheet' id='nomad-sun-style-css'  href='http://localhost:8888/wp-content/themes/nomad-sun/style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='nomadsun-custom-css'  href='http://localhost:8888/wp-content/themes/nomad-sun/css/custom.css?ver=5.7.2' media='all' />
+<script src='http://localhost:8888/wp-content/themes/nomad-sun/js/barba.js?ver=5.7.2' id='nomadsun-barba-js'></script>
+<script src='http://localhost:8888/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script src='http://localhost:8888/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://localhost:8888/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.2" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+
+<body class="home blog hfeed">
+
+<div id="barba-wrapper">
+	<div id="page" class="barba-container relative">
+	<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+
+	<header id="masthead" class="site-header absolute top-0 left-0 w-100 pa3 ph4-l">
+      <nav id="site-navigation" class="main-navigation flex justify-between items-center">
+        <a class="menu-toggle f6 archivo white ttu tracked block w4">
+          Places
+        </a>
+
+        <a href="http://localhost:8888">
+          <img src="http://localhost:8888/wp-content/themes/nomad-sun/images/sun-logo.svg" class="db">
+        </a>
+
+        <div class="flex items-center justify-end w4">
+          <a href="https://facebook.com/nomadsun" class="db mh2 link">
+            <img src="http://localhost:8888/wp-content/themes/nomad-sun/images/facebook.svg" class="db">
+          </a>
+          <a  href="https://twitter.com/nomadsun" class="db mh2 link">
+            <img src="http://localhost:8888/wp-content/themes/nomad-sun/images/twitter.svg" class="db">
+          </a>
+          <a href="https://instagram.com/nomadsun" class="db mh2 link">
+            <img src="http://localhost:8888/wp-content/themes/nomad-sun/images/insta.svg" class="db">
+          </a>
+        </div>
+      </nav><!-- #site-navigation -->
+    </header><!-- #masthead -->
+
+<div id="content" class="site-content">	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+			
+        <!-- using permalink gives us a link to the post -->
+    <!-- <h1>
+        <a href="http://localhost:8888/2021/05/11/hong-kong/">
+		Check out Hong Kong!
+        </a>
+	</h1> -->
+    
+    <!-- here we used an inline style attributed to attach our hero image as a css background directly onto the element. 
+	And the section have a min height of 100vh, cover and centre background etc -->
+	<a class="db link hero min-vh-100 cover bg-center flex items-center justify-center" style="background-image: url(http://localhost:8888/wp-content/uploads/2021/05/hong-kong-1.jpg)" href="http://localhost:8888/2021/05/11/hong-kong/">
+		<!-- make text white and centre it -->
+		<div class="hero-content white tc ph3 ph4-l">
+		<!-- location title -->
+
+			<h1 class="hero-heading f2 f1-l archivo mt0 mb3 bold ma0 ttu lh-title">
+				Hong Kong			</h1>
+		<!-- subhead -->
+
+		    		<p class="hero-subhead f2 f1-l tenor mb5 mb6-l mt0 white ttu lh-title">
+				Incense Harbour			</p>
+		
+		<!-- date -->
+					
+			<p class="archivo f6 bold white ttu ma0 tracked">
+			August 2018			</p>
+
+		
+
+		</div>
+	</a>
+<div class="tenor f3 f2-l pv5 pv6-l ph3 ph4-l center tc description">
+  <span class="archivo">Nomad Sun</span> is a travel blog featuring the most beautiful places in the world.
+</div><div class="flex flex-wrap container center ph4-l">
+
+  <a class="db link w-100 w-50-m w-50-l mb4 ph3" href="http://localhost:8888/2021/05/11/west-coast-usa/">
+    <div class="aspect-ratio aspect-ratio--1x1 aspect-ratio--16x9-ns">
+      <div class="aspect-ratio--object cover bg-center flex items-center justify-center " style="background-image: url(http://localhost:8888/wp-content/uploads/2021/05/usa-1.jpg)">
+        <p class="archivo white ma0 ttu tracked f5 f4-l ph4 tc lh-title">
+          West Coast USA        </p>
+      </div>
+    </div>
+  </a>
+
+
+  <a class="db link w-100 w-50-m w-50-l mb4 ph3" href="http://localhost:8888/2021/05/11/iceland/">
+    <div class="aspect-ratio aspect-ratio--1x1 aspect-ratio--16x9-ns">
+      <div class="aspect-ratio--object cover bg-center flex items-center justify-center " style="background-image: url(http://localhost:8888/wp-content/uploads/2021/05/iceland-1.jpg)">
+        <p class="archivo white ma0 ttu tracked f5 f4-l ph4 tc lh-title">
+          Iceland        </p>
+      </div>
+    </div>
+  </a>
+
+
+  <a class="db link w-100 w-50-m w-50-l mb4 ph3" href="http://localhost:8888/2021/05/11/mauritius/">
+    <div class="aspect-ratio aspect-ratio--1x1 aspect-ratio--16x9-ns">
+      <div class="aspect-ratio--object cover bg-center flex items-center justify-center " style="background-image: url(http://localhost:8888/wp-content/uploads/2021/05/mauritius-1.jpg)">
+        <p class="archivo white ma0 ttu tracked f5 f4-l ph4 tc lh-title">
+          Mauritius        </p>
+      </div>
+    </div>
+  </a>
+
+
+  <a class="db link w-100 w-50-m w-50-l mb4 ph3" href="http://localhost:8888/2021/05/11/bali/">
+    <div class="aspect-ratio aspect-ratio--1x1 aspect-ratio--16x9-ns">
+      <div class="aspect-ratio--object cover bg-center flex items-center justify-center " style="background-image: url(http://localhost:8888/wp-content/uploads/2021/05/bali-1.jpg)">
+        <p class="archivo white ma0 ttu tracked f5 f4-l ph4 tc lh-title">
+          Bali        </p>
+      </div>
+    </div>
+  </a>
+
+</div><div class="measure-wide center f4 ph3 ph4-l pt3 pb4 pt4-l pb5-l">
+  
+  <h2 class="archivo f3 f2-l mt0 mb3">Who am I?</h2>
+
+  <p>Not so long ago I thought people who took pictures all the time were not living in the moment, that they were missing something.</p>
+
+  <p>I've come to believe photos can hold a special kind of meaning, that they are more than the sum of their parts, that a good photo holds more than just pixels.</p>
+
+  <p>I read somewhere the value of a photograph grows with it's age. Here's to investing in photographs so I'll be rich in memories later.</p>
+
+</div>
+		</main><!-- #main -->
+	</div>
+
+			</div><!-- #content -->
+
+			<footer id="colophon" class="site-footer">
+
+				<div class="footer-content pv5 pv6-l ph3 ph4-l">
+					<div class="tenor f3 f2-l measure-narrow tc center white">
+						If you want to say hey or follow me along my adventures I'm on <a href="https://facebook.com/nomadsun" class="archivo link white">Facebook</a>, <a href="https://twitter.com/nomadsun" class="archivo link white">Twitter</a>, <a href="https://instagram.com/nomadsun" class="archivo link white">Instagram</a>. 👋
+					</div>
+				</div>
+
+				<div class="pa3 pa4-l act f6 archivo moon-gray tc ttu tracked">
+					&copy; Nomad Sun 2021. A project by SuperHi
+				</div>
+
+				</footer><!-- #colophon -->
+
+		</div>
+		
+	</div>
+</div><!-- #page -->
+
+<script src='http://localhost:8888/wp-content/themes/nomad-sun/js/main.js?ver=1.0.0' id='nomadsun-main-js'></script>
+<script src='http://localhost:8888/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: localhost @ 2021-06-11 15:39:29 by W3 Total Cache
+-->

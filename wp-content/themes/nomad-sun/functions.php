@@ -143,6 +143,9 @@ function nomad_sun_scripts() {
 	// here we bring tachyons into our theme and load it
 	wp_enqueue_style( 'nomad-sun-style', get_stylesheet_uri(), array(), _S_VERSION );
 	
+	// here we bring tachyons into our theme and load it
+	wp_enqueue_style( 'nomadsun-tachyons',  get_template_directory_uri() . '/css/tachyons.css');
+
 	// we load our custom css file
 	wp_enqueue_style( 'nomadsun-custom', get_template_directory_uri() . '/css/custom.css');
 	
